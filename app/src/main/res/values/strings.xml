@@ -3,4 +3,6 @@
     <string name="col">우박수</string>
     <string name="start">시작</string>
     <string name="result">결과</string>
+    <string name="stage">단계</string>
+    <string name="stageNum">단계수</string>
 </resources>
